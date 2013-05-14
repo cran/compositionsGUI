@@ -1,0 +1,3 @@
+import(robCompositions, compositions, mvoutlier, robustbase, RGtk2)
+export(compositionsGUI, impAll, Patterns, print.Patterns, pairwisePlot, pwlrPlot)
+
